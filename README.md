@@ -47,8 +47,6 @@
 - 🔬 Former Software Engineer Intern @ UrbanITY Lab, focusing on LIDAR & autonomous vehicles
 - 👨‍🏫 Ex-TA for Data Structures & Algorithms at UCF
 - 📚 Passionate about AI, NLP, Computer Vision, LLms & Backend Development
-- 📈 Currently working on ASL recognition using Vision Transformers
-- 🛠️ Favorite tools: PyTorch, TensorFlow, Docker, AWS, React, C++, and Python
 
 ### 🔍 Checkout My Work
 - ✨ ViT-based ASL Classifier – 94% accuracy on 26K+ image dataset
