@@ -1,3 +1,6 @@
+###
+
+<img align="center" height="150" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNDUxNzcsIm5iZiI6MTc0MzA0NDg3NywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI3VDAzMDc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5ODIzMmIyYzRkYzMxZDgzOWZkYTE4ODhiM2E1N2RjY2FlODI0YWYwNzUxYjFkZDYxNGY0Mjg4MWEzZDA4YzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GVbtI4t7lzqqox62vI165CgA4qRio8xcx00Llg0AexU"/>
 <h2 align="left">Hi 👋! My name is Hafijur Raman and I'm a Computer Vision Master's student at UCF.</h2>
 
 ###
@@ -7,9 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Minhaj-21st&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMwNDUxNzcsIm5iZiI6MTc0MzA0NDg3NywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI3VDAzMDc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5ODIzMmIyYzRkYzMxZDgzOWZkYTE4ODhiM2E1N2RjY2FlODI0YWYwNzUxYjFkZDYxNGY0Mjg4MWEzZDA4YzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.GVbtI4t7lzqqox62vI165CgA4qRio8xcx00Llg0AexU"/>
 
 ###
 
