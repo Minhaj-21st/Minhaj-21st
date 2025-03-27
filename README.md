@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hafijur Raman and I'm a Computer Vision Master's student at UCF, passionate about AI and software engineering.</h2>
+<h2 align="left">Hi 👋! My name is Hafijur Raman and I'm a Computer Vision Master's student at UCF.</h2>
 
 ###
 
@@ -47,12 +47,4 @@
 - 🔬 Former Software Engineer Intern @ UrbanITY Lab, focusing on LIDAR & autonomous vehicles
 - 👨‍🏫 Ex-TA for Data Structures & Algorithms at UCF
 - 📚 Passionate about AI, NLP, Computer Vision, LLms & Backend Development
-
-### 🔍 Checkout My Work
-- ✨ ViT-based ASL Classifier – 94% accuracy on 26K+ image dataset
-- 📊 Sentiment Analysis using BiLSTM, GRU on Bengali text data
-- 📈 Stock Prediction using ML models
-- 🧪 Open-JML: A static analysis tool to automate loop invariants in Java
-- 🎮 Pokémon GO-inspired MERN web app – 200+ users
-
 ---
