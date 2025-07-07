@@ -1,6 +1,6 @@
 ###
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 <h2 align="left">Hi 👋! My name is Hafijur Raman and I'm a Computer Vision Master's student at UCF.</h2>
