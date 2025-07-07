@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="80" style="max-width: 100%;" alt="Coding from Home" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="60" style="max-width: 100%;" alt="Coding from Home" />
 </div>
 
 <h2 align="left">Hi 👋! My name is Hafijur Raman and I'm a Computer Vision Master's student at UCF.</h2>
