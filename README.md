@@ -14,7 +14,8 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Master’s student in Computer Vision at the University of Central Florida (2024–2026)  
+- 🎓 Master’s student in Computer Vision at the University of Central Florida (2024–2026)
+- 🔬 Software Developer Intern @ Prodisphere – Building Prodisphere 🛠️ Software + AI (Summer 2025)
 - 🔬 Former Software Engineer Intern @ UrbanITY Lab, focusing on LIDAR & autonomous vehicles  
 - 👨‍🏫 Ex-TA for Data Structures & Algorithms at UCF  
 - 📚 Passionate about AI, NLP, Computer Vision, LLMs & Backend Development  
